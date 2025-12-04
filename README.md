@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Blessed R. Nkengafac
 
-🌍 Lubbock, Texas  
+🌍 Texas, United States 
 📧 brnkeng04@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/blessed-n-284629279/)  
 🔗 [GitHub](https://github.com/Blessed120)
