@@ -5,13 +5,16 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/blessed-n-284629279/)  
 🔗 [GitHub](https://github.com/Blessed120)
 
----
-
+--- 
 ## 🚀 About Me  
-Detail-oriented **Software Engineer** with hands-on experience in **Java**, **distributed systems**, **CI/CD automation**, and **cloud infrastructure**. I enjoy building scalable backend services, improving workflow efficiency, and delivering clean, maintainable code.
+Aspiring **Software Engineer** with hands-on experience in **Java**, **distributed systems**, **Linux environments**, **AI**, and **CI/CD automation**. I specialize in backend logic design, cloud infrastructure, DevOps and workflow optimization. I enjoy building reliable systems, reducing operational overhead, and delivering clean, maintainable code.
 
-I previously served as a **Senior Technical Advisor** supporting Apple platforms—strengthening my troubleshooting, documentation, and cross-team communication abilities.  
-I’m passionate about reliability, automation, and solving complex system problems.
+During my **Software Engineer Internship at Globamit**, I developed and deployed scalable Java-based backend services, built Jenkins pipelines for automated testing and deployments, designed REST API integrations for microservices, and utilized AWS services (EC2, IAM, S3) to support cloud-hosted workflows. This experience strengthened my ability to develop modular systems, automate infrastructure, and work within modern cloud environments.
+
+Previously, I served as a **Senior Technical Advisor** supporting Apple platforms, where I troubleshot escalated hardware and software issues, collaborated with Apple engineering teams, and improved team performance through mentorship and documentation excellence.
+
+I’m passionate about backend/frontend engineering, distributed systems, cloud infrastructure, and building tools that enhance performance, reliability, and developer workflows.
+
 
 ---
 
