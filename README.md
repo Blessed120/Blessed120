@@ -7,7 +7,7 @@
 
 --- 
 ## 🚀 About Me  
-Aspiring **Software Engineer** with hands-on experience in **Java**, **distributed systems**, **Linux environments**, **AI**, and **CI/CD automation**. I specialize in backend logic design, cloud infrastructure, and workflow optimization. I enjoy building reliable systems, reducing operational overhead, and delivering clean, maintainable code. I am actively seeking opportunities in **Software Engineering** and **Cloud Engineering** roles.
+Early career **Software Engineer** with hands-on experience in **Java**, **distributed systems**, **Linux environments**, **AI**, and **CI/CD automation**. I specialize in backend logic design, cloud infrastructure, and workflow optimization. I enjoy building reliable systems, reducing operational overhead, and delivering clean, maintainable code. I am actively seeking opportunities in **Software Engineering** and **Cloud Engineering** roles.
 
 During my **Software Engineer Internship at Globamit**, I developed and deployed scalable Java-based backend services, built Jenkins pipelines for automated testing and deployments, designed REST API integrations for microservices, and utilized AWS services (EC2, IAM, S3) to support cloud-hosted workflows. This experience strengthened my ability to develop modular systems, automate infrastructure, and work within modern cloud environments.
 
@@ -53,7 +53,7 @@ I’m passionate about backend engineering, distributed systems, cloud infrastru
 
 **A.A. Computer Science / Computer Engineering — EPCC**  
 *2023*
-
+IBM DevOps and Software Engineering Certificate								    2025
 ---
 
 ## 🧪 Projects
