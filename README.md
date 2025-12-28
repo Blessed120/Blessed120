@@ -28,16 +28,17 @@ I’m passionate about backend engineering, distributed systems, cloud infrastru
 
 ## 💼 Experience
 
-### **Software Engineer Intern — Gusto**  
-📅 *May 2024 – Aug 2024*  
-- Developed and deployed scalable **Java-based backend services**.  
--	Contributed to full stack development using modern JavaScript frameworks and backend services.
--	Supported modern development workflows using CI/CD pipelines, ensuring consistent, reliable delivery of web-enabled applications.
--	Gained hands-on experience working in Agile environments with iterative development and continuous improvement.
+### **Software Engineer Intern — Kelly Services**  
+📅 *May 2025 – Sept 2025*  
+-	Developed and maintained application features in Java, implementing updates and bug fixes aligned with user stories and acceptance criteria.
+-	Read and interpreted system requirements, translating them into technical tasks and simple program designs under supervision.
+-	Participated in Scrum ceremonies including backlog grooming, sprint planning, daily stand-ups, and sprint review
+-	Contributed to peer code reviews, improving code quality and adherence to team coding standards.
+-	Supported CI/CD release workflows, assisting in deployment readiness and reducing release issues.
 
 
 ### **Senior Support Advisor — Kelly Services (Apple, Inc.)**  
-📅 *Feb 2021 – Aug 2025*  
+📅 *Feb 2021 – Feb 2025*  
 -	Achieved over 90%+ first-contact resolution rate while delivering expert technical support for complex macOS and iOS hardware/software ecosystems.
 -	Managed and resolved high-priority, escalated hardware and software anomalies, functioning as a key liaison with core engineering teams.
 -	Analyzed recurring user issues to identify patterns and recommend product and workflow improvement
