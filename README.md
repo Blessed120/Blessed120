@@ -3,10 +3,6 @@
 🌍 Texas, United States
 📧 brnkeng04@gmail.com
 
-🔗 LinkedIn
-
-🔗 GitHub
-
 🚀 About Me
 
 Early-career Software Engineer with hands-on experience spanning backend development, cloud infrastructure, and technical IT support. I bring a unique blend of engineering, operational, and customer-facing expertise that allows me to build reliable systems while understanding real-world production and user challenges.
