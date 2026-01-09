@@ -1,84 +1,106 @@
-# 👋 Hi, I'm Blessed R. Nkengafac
+👋 Hi, I’m Blessed R. Nkengafac
 
-🌍 Texas, United States 
-📧 brnkeng04@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/blessed-n-284629279/)  
-🔗 [GitHub](https://github.com/Blessed120)
+🌍 Texas, United States
+📧 brnkeng04@gmail.com
 
---- 
-## 🚀 About Me  
-Early career **Software Engineer** with hands-on experience in **Java**, **distributed systems**, **Linux environments**, **AI**, and **CI/CD automation**. I specialize in backend logic design, cloud infrastructure, and workflow optimization. I enjoy building reliable systems, reducing operational overhead, and delivering clean, maintainable code. I am actively seeking opportunities in **Software Engineering** and **Cloud Engineering** roles.
+🔗 LinkedIn
 
-During my **Software Engineer Internship at Globamit**, I developed and deployed scalable Java-based backend services, built Jenkins pipelines for automated testing and deployments, designed REST API integrations for microservices, and utilized AWS services (EC2, IAM, S3) to support cloud-hosted workflows. This experience strengthened my ability to develop modular systems, automate infrastructure, and work within modern cloud environments.
+🔗 GitHub
 
-Previously, I served as a **Senior Technical Advisor** supporting Apple platforms, where I troubleshot escalated hardware and software issues, collaborated with Apple engineering teams, and improved team performance through mentorship and documentation excellence.
+🚀 About Me
 
-I’m passionate about backend engineering, distributed systems, cloud infrastructure, and building tools that enhance performance, reliability, and developer workflows.
----
+Early-career Software Engineer with hands-on experience spanning backend development, cloud infrastructure, and technical IT support. I bring a unique blend of engineering, operational, and customer-facing expertise that allows me to build reliable systems while understanding real-world production and user challenges.
 
-## 🔧 Technical Skills
+I have professional experience developing Java-based backend services, working in Linux environments, automating CI/CD pipelines, and supporting cloud-hosted systems on AWS. I enjoy designing clean backend logic, optimizing workflows, and building scalable, maintainable solutions.
 
-**Languages:** Java, Python, JavaScript, SQL  
-**Cloud & DevOps:** AWS (EC2, IAM, S3), Docker, Jenkins, Kubernetes  
-**Tools:** Git/GitHub, CI/CD Pipelines, Jira, Testing & Debugging  
-**Systems:** Linux, macOS, Windows  
-**Soft Skills:** Mentorship, Problem Solving, Collaboration, Adaptability  
+In addition to engineering, I bring a strong background in technical and IT support, where I handled complex escalations, collaborated with engineering teams, and mentored junior staff—skills that translate directly into system reliability, incident response, and cross-team collaboration.
 
----
+I am actively seeking opportunities in:
 
-## 💼 Experience
+Software Engineering
 
-### **Software Engineer Intern — Kelly Services**  
-📅 *May 2025 – Sept 2025*  
--	Developed and maintained application features in Java, implementing updates and bug fixes aligned with user stories and acceptance criteria.
--	Read and interpreted system requirements, translating them into technical tasks and simple program designs under supervision.
--	Participated in Scrum ceremonies including backlog grooming, sprint planning, daily stand-ups, and sprint review
--	Contributed to peer code reviews, improving code quality and adherence to team coding standards.
--	Supported CI/CD release workflows, assisting in deployment readiness and reducing release issues.
+Cloud / DevOps Engineering
 
+Technical Support / IT Support / Systems Support
 
-### **Senior Support Advisor — Kelly Services (Apple, Inc.)**  
-📅 *Feb 2021 – Feb 2025*  
--	Achieved over 90%+ first-contact resolution rate while delivering expert technical support for complex macOS and iOS hardware/software ecosystems.
--	Managed and resolved high-priority, escalated hardware and software anomalies, functioning as a key liaison with core engineering teams.
--	Analyzed recurring user issues to identify patterns and recommend product and workflow improvement
--	Trained and mentored junior advisors, improving team troubleshooting accuracy.
+🔧 Technical Skills
 
+Languages: Java, Python, JavaScript, SQL
+Cloud & DevOps: AWS (EC2, IAM, S3), Docker, Jenkins, Kubernetes
+Tools: Git/GitHub, CI/CD Pipelines, Jira, Testing & Debugging
+Systems: Linux, macOS, Windows
+Soft Skills: Troubleshooting, Mentorship, Problem Solving, Collaboration, Adaptability
 
----
+💼 Experience
+Software Engineer Intern — Kelly Services
 
-## 🎓 Education
+📅 May 2025 – Sept 2025
 
-**B.S. Computer Science — Texas Tech University**  
-*December 2025*
+Developed and maintained backend application features in Java, implementing enhancements and bug fixes aligned with business requirements.
 
-**A.A. Computer Science / Computer Engineering — EPCC**  
-*2023*
-IBM DevOps and Software Engineering Certificate								    2025
----
+Translated system requirements into technical tasks and simple program designs under supervision.
 
-## 🧪 Projects
-•	**Automated CI/CD Pipeline using Jenkins, Docker & AWS EC2:** 
-I built an end-to-end CI/CD pipeline on AWS where Jenkins pulls code from GitHub, builds Docker images, pushes them to Docker Hub, and deploys containers to a remote EC2 instance using SSH. I secured the pipeline using Jenkins credentials and SSH key-based authentication and enabled automated deployments through GitHub webhooks
+Participated in Scrum ceremonies, including sprint planning, daily stand-ups, backlog grooming, and sprint reviews.
 
-•	**Anomaly Detection System | Python, SitePro (2025)**
-Designed and implemented an anomaly detection system to identify irregular patterns on pumps performance, integrated with SitePro to simulate real-world monitoring scenarios and enhance proactive problem detection.
+Contributed to peer code reviews, improving code quality and adherence to engineering standards.
 
-•**Secure Credential Generator:**
-The Secure Credential Generator is a Java-based application designed to generate strong, secure passwords and protect sensitive credentials
+Supported CI/CD release workflows, assisting with deployment readiness and reducing release issues.
 
-•**Text Authorship & AI-Human Text Classifier:**
-The Text Authorship & AI-Human Text Classifier is a machine learning-powered Python application that determines whether a piece of text was written by a human or generated by AI
+Senior Technical Support Advisor — Kelly Services (Apple, Inc.)
 
----
+📅 Feb 2021 – Feb 2025
 
-## 📈 Current Goals
-- Strengthen expertise in **cloud infrastructure**, ** and **distributed systems**  
-- Contribute to open-source Java backend projects  
-- Build more automation-centered DevOps tools  
+Delivered advanced technical support for macOS and iOS ecosystems, maintaining a 90%+ first-contact resolution rate.
 
----
+Resolved high-priority escalations involving hardware, software, and system-level issues.
 
-## 🤝 Let’s Connect and build something great
-I'm always interested in collaborating on backend, Frontend, cloud, or DevOps-related projects.  
+Acted as a liaison between customers and engineering teams, documenting issues and improving troubleshooting workflows.
+
+Mentored and trained junior advisors, improving overall team performance and technical accuracy.
+
+🎓 Education & Certifications
+
+B.S. Computer Science — Texas Tech University
+Expected December 2025
+
+A.A. Computer Science / Computer Engineering — EPCC
+2023
+
+IBM DevOps and Software Engineering Certificate
+2025
+
+🧪 Projects
+🔹 Automated CI/CD Pipeline (Jenkins, Docker, AWS EC2)
+
+Built an end-to-end CI/CD pipeline where Jenkins pulls code from GitHub, builds Docker images, pushes them to Docker Hub, and deploys containers to AWS EC2.
+
+Secured pipelines using Jenkins credentials and SSH key-based authentication.
+
+Enabled automated deployments using GitHub webhooks.
+
+🔹 Anomaly Detection System — Python (SitePro, 2025)
+
+Designed an anomaly detection system to identify irregular patterns in pump performance.
+
+Integrated with SitePro to simulate real-world monitoring scenarios and improve proactive issue detection.
+
+🔹 Secure Credential Generator — Java
+
+Developed a Java-based application for generating strong, secure passwords and protecting sensitive credentials.
+
+🔹 Text Authorship & AI-Human Text Classifier — Python
+
+Built a machine-learning application that classifies text as human-written or AI-generated.
+
+📈 Current Focus
+
+Expanding expertise in cloud infrastructure, DevOps, and distributed systems
+
+Contributing to open-source Java backend projects
+
+Building automation tools that improve deployment, monitoring, and reliability
+
+🤝 Let’s Connect
+
+I’m always interested in collaborating on software engineering, cloud, DevOps, or technical support projects.
 Feel free to reach out or explore my repositories!
